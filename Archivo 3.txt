@@ -1,0 +1,3 @@
+Actividad-1-en-clases-
+Inicia sesión en tu cuenta de GitHub.
+Nuevo Repositorio: En la esquina superior derecha, selecciona el icono + y luego haz clic en "New repository" (Nuevo repositorio).
